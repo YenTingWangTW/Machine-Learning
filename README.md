@@ -36,6 +36,8 @@
 * Regularization
     * This lab works through some common **Regularization Techniques** such as *weight decay*, *sparse weight*, and *validation*.
 
+    [Lab 5](https://github.com/YenTingWangTW/Machine-Learning/blob/master/week_5/Lab05.ipynb)
+
 ## week 6
 * Probabilistic Models
     * Maximum Likelihood Estimation | Maximum A Posteriori Estimation | Bayesian Estimation
